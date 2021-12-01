@@ -4,7 +4,8 @@
 ### Rate every Website (and every URL) you find. View the ratings and view them directly injected to the Website in some Websites, like Youtube or Google.
 
 ## Images
-
+<img src="https://i.imgur.com/cuJNZ4e.png">
+<img src="https://i.imgur.com/J1KD9RE.png">
 
 ## Roadplan
 - [ ] Adding Comments (Discussions) - adding reporting function
