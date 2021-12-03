@@ -6,6 +6,7 @@
 ## Images
 <img src="https://i.imgur.com/cuJNZ4e.png">
 <img src="https://i.imgur.com/J1KD9RE.png">
+<img src="https://i.imgur.com/p6fzSwE.png">
 
 ## Roadplan
 - [ ] Adding Comments (Discussions) - adding reporting function
